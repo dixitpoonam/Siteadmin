@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>501400F0</color><width>3</width></LineStyle></Style><LineString>
+<coordinates>88.327,22.53232,0 88.32763,22.54242,0 88.32318,22.56055,0 88.31627,22.56513,0 88.31627,22.56513,0 88.30207,22.57523,0 88.29005,22.58422,0 88.28302,22.58543,0 88.2624,22.59743,0 88.24598,22.60615,0 88.224,22.59865,0 88.21378,22.60068,0 88.20923,22.5998,0 88.20923,22.5998,0 88.20923,22.5998,0 88.20923,22.5998,0 88.20923,22.5998,0 88.20923,22.5998,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 88.20913,22.59957,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>In IRPL  </name>
+<description>In IRPL  </description>
+<Point>
+<coordinates>88.20913,22.59957</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>01.53 Kms NW of 2PHP WH</name>
+<description>01.53 Kms NW of 2PHP WH</description>
+<Point>
+<coordinates>88.327,22.53232</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

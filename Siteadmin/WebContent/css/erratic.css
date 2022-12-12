@@ -1,0 +1,112 @@
+a:link {
+	color: #0066CC;
+}
+a:visited {
+	color: #666699;
+}
+a:hover {
+	color: #FF9900;
+}
+a:active {
+	color: #FF9900;
+}
+a {
+	text-decoration:none
+}
+a:hover {
+	text-decoration: underline;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgb(255, 255, 255);
+	color: rgb(00, 51, 102);
+	text-align: Left;
+	font-size: 10px;
+}
+table {
+	text-align: Left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+h1, h2, h3, h4, h6 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+	background-color: transparent;
+	color: #484974;
+	font: 14px Arial,sans-serif;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+}
+
+.bottomnav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.smalltext10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.featureboxbg {
+	background-color: #F5F5F5;
+}
+.fboxmiddle {
+	background-image: url(../images/fboxmiddle.gif);
+	background-repeat: repeat;
+}
+.fboxbottom {
+	background-image: url(../images/fboxbottom.gif);
+	background-repeat: repeat;
+}
+.fboxright {
+	background-image: url(../images/fboxright.gif);
+	background-repeat: repeat;
+}
+.fboxlowright {
+	background-image: url(../images/fboxrightlower.gif);
+	background-repeat: repeat;
+}
+.fboxlowleft {
+	background-image: url(../images/fboxleftlower.gif);
+	background-repeat: repeat;
+}
+.fboxleft {
+	background-image: url(../images/fboxleftupper.gif);
+	background-repeat: repeat;
+}
+.fboxtop {
+	background-image: url(../images/fboxtop.gif);
+	background-repeat: repeat;
+}
+hr {
+	color: rgb(102, 102, 153);
+}.blkhdtop {
+	background-image: url(../images/fbox-black-thline.gif);
+	background-repeat: repeat;
+}
+.blkhdmiddle {
+	background-color: #000000;
+}
+.blkhdlvline {
+	background-image: url(../images/fbox-black-lvline.gif);
+	background-repeat: repeat;
+}
+.blkhdrvline {
+	background-image: url(../images/fbox-black-rvline.gif);
+	background-repeat: repeat;
+}
+.blkhdbottom {
+	background-image: url(../images/fbox-black-bhline.gif);
+	background-repeat: repeat;
+}
+.featureboxsmalltxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	background-color: #F5F5F5;
+}

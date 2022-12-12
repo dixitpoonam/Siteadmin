@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open><Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.52228,23.92968,0  87.51375,23.91467,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.51368,23.91238,0  87.51502,23.89965,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.51553,23.89617,0  87.51563,23.89537,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.51642,23.89332,0  87.52002,23.88773,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.52053,23.88688,0  87.5202,23.88443,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.51992,23.88397,0  87.51567,23.88018,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.51477,23.87927,0  87.5121,23.87687,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.51058,23.87492,0  87.48868,23.85302,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.48595,23.84905,0  87.47593,23.83993,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.47305,23.83812,0  87.4533,23.8206,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.45043,23.81918,0  87.447,23.8175,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.44427,23.81632,0  87.44392,23.81622,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.44385,23.8162,0  87.41502,23.8123,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4139,23.81195,0  87.39752,23.79698,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.39738,23.79662,0  87.40235,23.76863,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.40235,23.76853,0  87.40858,23.7524,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.40882,23.75222,0  87.4094,23.75165,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4109,23.75015,0  87.41438,23.74593,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.41562,23.74322,0  87.4194,23.73812,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.42417,23.73312,0  87.43718,23.71593,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.43948,23.71302,0  87.44285,23.70863,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.44335,23.70797,0  87.4489,23.70168,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.45467,23.69705,0  87.48083,23.6808,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.48203,23.67983,0  87.48777,23.67518,0 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</kml>

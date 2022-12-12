@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>ffFA8B0C</color><width>3</width></LineStyle></Style><Style id='starticonsty'><IconStyle id='start'><Icon><href>http://www.myfleetview.com/siteadmin/images/mm_20_red.png</href></Icon></IconStyle></Style><LineString>
+<coordinates>73.17865,18.88248,0 73.16743,18.8923,0 73.15462,18.90822,0 73.14618,18.93425,0 73.15098,18.9589,0 73.1314,18.97102,0 73.13097,18.97087,0 73.1309,18.97098,0 73.1309,18.97098,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>05.85 Kms NW of IMClimited JNPT NaviMumbai BusinessUnit</name>
+<description>05.85 Kms NW of IMClimited JNPT NaviMumbai BusinessUnit</description>
+<Point>
+<coordinates>73.1309,18.97098</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>In Patalganga CFA</name>
+<description>In Patalganga CFA</description>
+<styleUrl>#starticonsty</styleUrl><Point>
+<coordinates>73.17865,18.88248</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

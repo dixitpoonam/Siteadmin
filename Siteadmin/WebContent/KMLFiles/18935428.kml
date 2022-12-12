@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>ffE0C914</color><width>3</width></LineStyle></Style><Style id='starticonsty'><IconStyle id='start'><Icon><href>http://www.myfleetview.com/siteadmin/images/mm_20_red.png</href></Icon></IconStyle></Style><LineString>
+<coordinates>73.08668,19.03248,0 73.0867,19.0325,0 73.0867,19.0325,0 73.08672,19.03248,0 73.08672,19.03248,0 73.08672,19.03248,0 73.08677,19.03252,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>01.22 Kms NE of 0JH Zone</name>
+<description>01.22 Kms NE of 0JH Zone</description>
+<Point>
+<coordinates>73.08677,19.03252</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>01.23 Kms NE of 0JH Zone</name>
+<description>01.23 Kms NE of 0JH Zone</description>
+<styleUrl>#starticonsty</styleUrl><Point>
+<coordinates>73.08668,19.03248</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

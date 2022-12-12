@@ -1,0 +1,788 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open><Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.2607,22.6085,0  88.2988,22.6769,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.2988,22.6769,0  88.2951,22.6853,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.2951,22.6853,0  88.2375,22.8194,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.2375,22.8194,0  88.234,22.8281,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.234,22.8281,0  88.2303,22.8364,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.2303,22.8364,0  88.226,22.8443,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.226,22.8443,0  88.2215,22.8525,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.2215,22.8525,0  88.1958,22.92,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.1958,22.92,0  88.1878,22.9359,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.1878,22.9359,0  88.1512,22.9891,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.1512,22.9891,0  88.1487,22.9977,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.1487,22.9977,0  88.0624,23.1158,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.0624,23.1158,0  88.0517,23.1309,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.0517,23.1309,0  88.041,23.146,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.041,23.146,0  88.0358,23.1533,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.0358,23.1533,0  88.0259,23.1791,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.0259,23.1791,0  88.0229,23.1877,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.0229,23.1877,0  88.0063,23.1952,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>88.0063,23.1952,0  87.997,23.1974,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.997,23.1974,0  87.9444,23.2118,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.9444,23.2118,0  87.9064,23.2198,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.9064,23.2198,0  87.8785,23.2142,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.8785,23.2142,0  87.8528,23.2213,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.8528,23.2213,0  87.8435,23.2278,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.8435,23.2278,0  87.8324,23.2513,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.8324,23.2513,0  87.8275,23.2666,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.8275,23.2666,0  87.8098,23.2745,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.8098,23.2745,0  87.7335,23.3147,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.7335,23.3147,0  87.7171,23.3247,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.7171,23.3247,0  87.7009,23.3346,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.7009,23.3346,0  87.6664,23.3517,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.6664,23.3517,0  87.6577,23.3558,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.6577,23.3558,0  87.649,23.36,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.649,23.36,0  87.6403,23.3641,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.6403,23.3641,0  87.6317,23.3684,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.6317,23.3684,0  87.6142,23.3762,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.6142,23.3762,0  87.6052,23.3797,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.6052,23.3797,0  87.596,23.3832,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.596,23.3832,0  87.5689,23.3935,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.5689,23.3935,0  87.5623,23.3998,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.5623,23.3998,0  87.5366,23.4068,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.5366,23.4068,0  87.5274,23.4096,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.5274,23.4096,0  87.519,23.414,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.519,23.414,0  87.5019,23.4232,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.5019,23.4232,0  87.4935,23.4277,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4935,23.4277,0  87.4852,23.4321,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4852,23.4321,0  87.4349,23.4591,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4349,23.4591,0  87.4182,23.4683,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4182,23.4683,0  87.4011,23.4777,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.4011,23.4777,0  87.3928,23.4822,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3928,23.4822,0  87.3845,23.4868,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3845,23.4868,0  87.3746,23.4922,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3746,23.4922,0  87.3677,23.496,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3677,23.496,0  87.3594,23.5006,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3594,23.5006,0  87.3507,23.5053,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3507,23.5053,0  87.3426,23.5097,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3426,23.5097,0  87.3339,23.5146,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3339,23.5146,0  87.3173,23.5237,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3173,23.5237,0  87.3087,23.5283,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.3087,23.5283,0  87.2918,23.5376,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.2918,23.5376,0  87.2847,23.5415,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.2847,23.5415,0  87.275,23.5468,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.275,23.5468,0  87.2549,23.5601,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.2549,23.5601,0  87.2361,23.5741,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.2361,23.5741,0  87.2284,23.5797,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.2284,23.5797,0  87.211,23.5879,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.211,23.5879,0  87.202,23.5913,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.202,23.5913,0  87.1925,23.595,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1925,23.595,0  87.1838,23.5982,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1838,23.5982,0  87.1577,23.6082,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1577,23.6082,0  87.1484,23.6131,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1484,23.6131,0  87.1425,23.6206,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1425,23.6206,0  87.1352,23.6261,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1352,23.6261,0  87.1266,23.6313,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1266,23.6313,0  87.1103,23.6408,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.1103,23.6408,0  87.0993,23.6471,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0993,23.6471,0  87.0936,23.6505,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0936,23.6505,0  87.085,23.655,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.085,23.655,0  87.0762,23.6589,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0762,23.6589,0  87.067,23.6619,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.067,23.6619,0  87.0576,23.6642,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0576,23.6642,0  87.0481,23.6665,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0481,23.6665,0  87.0385,23.6685,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0385,23.6685,0  87.0193,23.6722,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.0193,23.6722,0  87.011,23.6765,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>87.011,23.6765,0  86.9967,23.6888,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9967,23.6888,0  86.9911,23.6962,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9911,23.6962,0  86.9842,23.7031,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9842,23.7031,0  86.9769,23.7077,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9769,23.7077,0  86.9683,23.7112,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9683,23.7112,0  86.9589,23.7147,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9589,23.7147,0  86.9498,23.7175,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9498,23.7175,0  86.9403,23.7197,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.9403,23.7197,0  86.8883,23.7433,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8883,23.7433,0  86.8785,23.7492,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8785,23.7492,0  86.8739,23.7545,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8739,23.7545,0  86.8678,23.7619,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8678,23.7619,0  86.8512,23.7705,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8512,23.7705,0  86.8411,23.7698,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8411,23.7698,0  86.8225,23.7654,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8225,23.7654,0  86.8128,23.7649,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8128,23.7649,0  86.8031,23.7651,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.8031,23.7651,0  86.7886,23.7621,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.7886,23.7621,0  86.7749,23.7669,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.7749,23.7669,0  86.7658,23.7662,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.7658,23.7662,0  86.7568,23.7629,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.7568,23.7629,0  86.7473,23.7638,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.7473,23.7638,0  86.7136,23.7816,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.7136,23.7816,0  86.6956,23.7886,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.6956,23.7886,0  86.6861,23.7898,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.6861,23.7898,0  86.6764,23.7919,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.6764,23.7919,0  86.667,23.7943,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.667,23.7943,0  86.657,23.7966,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.657,23.7966,0  86.6382,23.7989,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.6382,23.7989,0  86.6284,23.7992,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.6284,23.7992,0  86.619,23.8014,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.619,23.8014,0  86.6094,23.8037,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.6094,23.8037,0  86.5999,23.8959,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.5999,23.8959,0  86.5809,23.8104,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.5809,23.8104,0  86.5714,23.8126,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.5714,23.8126,0  86.56,23.8153,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.56,23.8153,0  86.5527,23.8176,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.5527,23.8176,0  86.5439,23.8215,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.5439,23.8215,0  86.5084,23.837,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.5084,23.837,0  86.4992,23.8398,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.4992,23.8398,0  86.4805,23.845,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.4805,23.845,0  86.4705,23.8453,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.4705,23.8453,0  86.4605,23.8456,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.4605,23.8456,0  86.451,23.8469,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.451,23.8469,0  86.4416,23.8489,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>86.4416,23.8489,0  86.4302,23.8513,0 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</kml>

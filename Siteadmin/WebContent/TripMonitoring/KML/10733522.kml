@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>501400F0</color><width>3</width></LineStyle></Style><LineString>
+<coordinates>88.3036,22.51743,0 88.3036,22.51743,0 88.30135,22.51702,0 88.29327,22.51675,0 88.28672,22.51498,0 88.28672,22.51498,0 88.28672,22.51498,0 88.28672,22.51498,0 88.28643,22.5149,0 88.29188,22.52033,0 88.2932,22.53102,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>In PaharpurBlending FillingPlant CALCUTTA BusinessUnit</name>
+<description>In PaharpurBlending FillingPlant CALCUTTA BusinessUnit</description>
+<Point>
+<coordinates>88.2932,22.53102</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>01.03 Kms SE of Kolkata Zone</name>
+<description>01.03 Kms SE of Kolkata Zone</description>
+<Point>
+<coordinates>88.3036,22.51743</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

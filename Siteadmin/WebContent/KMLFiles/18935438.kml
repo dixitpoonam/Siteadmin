@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>ff00FA0C</color><width>3</width></LineStyle></Style><Style id='starticonsty'><IconStyle id='start'><Icon><href>http://www.myfleetview.com/siteadmin/images/mm_20_red.png</href></Icon></IconStyle></Style><LineString>
+<coordinates>73.08692,19.03227,0 73.08695,19.03228,0 73.08697,19.03227,0 73.08698,19.03227,0 73.08698,19.03227,0 73.08698,19.03228,0 73.087,19.03228,0 73.08698,19.03228,0 73.087,19.0323,0 73.08703,19.03232,0 73.08703,19.03235,0 73.08703,19.03243,0 73.08698,19.0325,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>01.21 Kms NE of 0JH Zone</name>
+<description>01.21 Kms NE of 0JH Zone</description>
+<Point>
+<coordinates>73.08698,19.0325</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>01.21 Kms NE of 0JH Zone</name>
+<description>01.21 Kms NE of 0JH Zone</description>
+<styleUrl>#starticonsty</styleUrl><Point>
+<coordinates>73.08692,19.03227</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

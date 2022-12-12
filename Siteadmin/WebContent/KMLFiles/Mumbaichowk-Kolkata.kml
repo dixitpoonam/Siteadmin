@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open><Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>75.5234,31.4052,0  75.521,31.4087,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>75.521,31.4087,0  75.5157,31.4165,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>75.5157,31.4165,0  75.5051,31.4321,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>75.5051,31.4321,0  75.489,31.4349,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>75.489,31.4349,0  75.4122,31.3914,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style>
+<LineString>
+<coordinates>75.4122,31.3914,0  75.3867,31.3822,0 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</kml>

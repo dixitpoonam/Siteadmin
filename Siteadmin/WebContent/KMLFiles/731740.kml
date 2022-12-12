@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>ffE0C914</color><width>3</width></LineStyle></Style><Style id='starticonsty'><IconStyle id='start'><Icon><href>http://www.myfleetview.com/siteadmin/images/mm_20_red.png</href></Icon></IconStyle></Style><LineString>
+<coordinates>73.17873,18.88262,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>In Patalganga CFA</name>
+<description>In Patalganga CFA</description>
+<Point>
+<coordinates>73.17873,18.88262</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>In Patalganga CFA</name>
+<description>In Patalganga CFA</description>
+<styleUrl>#starticonsty</styleUrl><Point>
+<coordinates>73.17873,18.88262</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

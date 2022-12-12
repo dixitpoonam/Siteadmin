@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>ffE0C914</color><width>3</width></LineStyle></Style><Style id='starticonsty'><IconStyle id='start'><Icon><href>http://www.myfleetview.com/siteadmin/images/mm_20_red.png</href></Icon></IconStyle></Style><LineString>
+<coordinates>73.03633,19.28213,0 73.03633,19.28213,0 73.03125,19.28615,0 73.01022,19.29615,0 72.97992,19.30355,0 72.96188,19.32208,0 72.93238,19.33003,0 72.91815,19.35018,0 72.90845,19.35627,0 72.90813,19.35755,0 72.89853,19.37992,0 72.89853,19.37992,0 72.89853,19.37992,0 72.89853,19.37992,0 72.89853,19.37992,0 72.89853,19.37992,0 72.88555,19.39792,0 72.8763,19.41397,0 72.87698,19.43707,0 72.88677,19.46193,0 72.89855,19.48293,0 72.91823,19.50355,0 72.91642,19.54207,0 72.9151,19.58297,0 72.91505,19.61205,0 72.91065,19.64865,0 72.90918,19.68525,0 72.93168,19.71268,0 72.93072,19.72353,0 72.93072,19.72353,0 72.9259,19.72922,0 72.92592,19.72925,0 72.92592,19.72925,0 72.92592,19.72925,0 72.92592,19.72925,0 72.92592,19.72925,0 72.92592,19.72925,0 72.92428,19.73052,0 72.9154,19.76013,0 72.89415,19.77043,0 72.87002,19.77985,0 72.83953,19.78433,0 72.81668,19.7777,0 72.7898,19.7821,0 72.76555,19.78608,0 72.74705,19.78522,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>In Tarapur Zone</name>
+<description>In Tarapur Zone</description>
+<Point>
+<coordinates>72.74705,19.78522</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>01.39 Kms NW of Bhiwandi CFA</name>
+<description>01.39 Kms NW of Bhiwandi CFA</description>
+<styleUrl>#starticonsty</styleUrl><Point>
+<coordinates>73.03633,19.28213</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?><kml xmlns='http://earth.google.com/kml/2.0'><Folder><name>Shapefile Converter Generated File</name><open>1</open>
+<Placemark>
+<name> </name>
+<Style>
+<LineStyle><color>501400F0</color><width>3</width></LineStyle></Style><LineString>
+<coordinates>73.03808,20.22658,0 73.03402,20.22603,0 73.03402,20.22603,0 73.03402,20.22603,0 73.02632,20.22495,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>01.23 Kms SE of Silvassa Zone</name>
+<description>01.23 Kms SE of Silvassa Zone</description>
+<Point>
+<coordinates>73.02632,20.22495</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>In Silvassa CFA</name>
+<description>In Silvassa CFA</description>
+<Point>
+<coordinates>73.03808,20.22658</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>
