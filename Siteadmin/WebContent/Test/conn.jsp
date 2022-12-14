@@ -8,6 +8,6 @@ String MM_dbConn_STRING1="jdbc:mysql://172.16.8.17/db_avlalldata";
 String MM_dbConn_STRING6="jdbc:mysql://172.16.8.17/db_avlalldata";
 String MM_dbConn_STRING2="jdbc:mysql://172.16.8.17/test";
 String MM_dbConn_STRING3="jdbc:mysql://172.16.8.17/db_gpsbackup";
-String MM_dbConn_STRING4="jdbc:mysql://203.199.134.130/db_gps";
-String MM_dbConn_STRING5="jdbc:mysql://203.199.134.130/db_avlalldata";
+String MM_dbConn_STRING4="jdbc:mysql://172.16.8.17/db_gps";
+String MM_dbConn_STRING5="jdbc:mysql://172.16.8.17/db_avlalldata";
 %>
