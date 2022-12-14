@@ -9,7 +9,7 @@ int limit;
 <%
 try{
 	Class.forName("org.gjt.mm.mysql.Driver");
-	c = DriverManager.getConnection("jdbc:mysql://localhost/db_avlalldata","site","1@s2te");
+	c = DriverManager.getConnection("jdbc:mysql://172.16.8.17/db_avlalldata","site","1@s2te");
 	st1 = c.createStatement();
 	stGps = c.createStatement();
 	%>

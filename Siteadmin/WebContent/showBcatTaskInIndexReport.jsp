@@ -32,7 +32,7 @@ String user_name = request.getParameter("user_name");
 
 Class.forName("org.gjt.mm.mysql.Driver");
 //conn = DriverManager.getConnection("jdbc:mysql://115.112.36.134/dotproject","fleetview","1@flv");
-conn = DriverManager.getConnection("jdbc:mysql://localhost/dotproject","fleetview","1@flv");
+conn = DriverManager.getConnection("jdbc:mysql://172.16.8.17/dotproject","fleetview","1@flv");
 //conn = DriverManager.getConnection("jdbc:mysql://192.168.2.55/dotprojectfortesting","fleetview","1@flv");
 //conn = DriverManager.getConnection("jdbc:mysql://192.168.2.55/dotproject","fleetview","1@flv");
 

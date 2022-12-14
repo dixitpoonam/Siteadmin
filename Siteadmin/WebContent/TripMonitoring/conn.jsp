@@ -8,15 +8,15 @@ String MM_dbConn_PASSWORD="transjava!1";
 String MM_dbConn_USERNAME="site";
 String MM_dbConn_PASSWORD="1@s2te";
 
-String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
-String MM_dbConn_STRING3="jdbc:mysql://localhost/db_gpsmreports";
-String MM_dbConn_STRING1="jdbc:mysql://localhost/db_CustomerComplaints";
+String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
+String MM_dbConn_STRING3="jdbc:mysql://172.16.8.17/db_gpsmreports";
+String MM_dbConn_STRING1="jdbc:mysql://172.16.8.17/db_CustomerComplaints";
 
-//St ring MM_dbConn_STRING2="jdbc:mysql://localhost/airtel";
+//St ring MM_dbConn_STRING2="jdbc:mysql://172.16.8.17/airtel";
 /* 
-String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
-String MM_dbConn_STRING3="jdbc:mysql://localhost/db_gpsmreports";
-String MM_dbConn_STRING1="jdbc:mysql://localhost/db_CustomerComplaints";
+String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
+String MM_dbConn_STRING3="jdbc:mysql://172.16.8.17/db_gpsmreports";
+String MM_dbConn_STRING1="jdbc:mysql://172.16.8.17/db_CustomerComplaints";
 
 */
 //----------------------------------------------------------------------------------

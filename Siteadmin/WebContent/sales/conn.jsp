@@ -6,14 +6,14 @@ String MM_dbConn_USERNAME="site";
 String MM_dbConn_PASSWORD="1@s2te";
 
 //String MM_dbConn_STRING="jdbc:mysql://192.168.1.49/db_gps";
-//String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
-String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
+//String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
+String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
  
 //----------------------------------------------------------------------------------
 /*
 String MM_dbConn_USERNAME="java";
 String MM_dbConn_PASSWORD="transjava!1";
-String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
+String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
 */
 //----------------------------------------------------------------------------------
 	

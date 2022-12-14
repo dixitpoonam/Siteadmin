@@ -57,7 +57,7 @@ Statement st2 = null;
 		String MM_dbConn_DRIVER = "org.gjt.mm.mysql.Driver";
 		String MM_dbConn_USERNAME = "fleetview";
 		String MM_dbConn_PASSWORD = "1@flv";
-		String MM_dbConn_GPS = "jdbc:mysql://localhost";            
+		String MM_dbConn_GPS = "jdbc:mysql://172.16.8.17";            
 
 		Class.forName(MM_dbConn_DRIVER);
 		conn = DriverManager.getConnection(MM_dbConn_GPS,MM_dbConn_USERNAME, MM_dbConn_PASSWORD);

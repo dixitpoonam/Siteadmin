@@ -135,7 +135,7 @@ try{
 						String MM_dbConn_PASSWORD = "1@flv";
 					//	String MM_dbConn_GPS = "jdbc:mysql://192.168.2.55/dotprojectfortesting";  
 					//	String MM_dbConn_GPS = "jdbc:mysql://115.112.36.134/dotproject"; 
-			            String MM_dbConn_GPS = "jdbc:mysql://localhost/dotproject";
+			            String MM_dbConn_GPS = "jdbc:mysql://172.16.8.17/dotproject";
 					
 						Class.forName(MM_dbConn_DRIVER);
 						conne = DriverManager.getConnection(MM_dbConn_GPS,MM_dbConn_USERNAME, MM_dbConn_PASSWORD);

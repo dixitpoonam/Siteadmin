@@ -6,9 +6,9 @@ String MM_dbConn_PASSWORD="1@s2te";
 
 
 
-String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
-String MM_dbConn_STRING1="jdbc:mysql://localhost/db_avlalldata";
-String MM_dbConn_STRING2="jdbc:mysql://localhost/test";
+String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
+String MM_dbConn_STRING1="jdbc:mysql://172.16.8.17/db_avlalldata";
+String MM_dbConn_STRING2="jdbc:mysql://172.16.8.17/test";
 
 
 Connection conn,conn1,conn2;

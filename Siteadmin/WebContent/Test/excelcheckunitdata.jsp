@@ -16,8 +16,8 @@ String filename="UnitData.xls";
 String MM_dbConn_DRIVER="org.gjt.mm.mysql.Driver";
 String MM_dbConn_USERNAME="site";
 String MM_dbConn_PASSWORD="1@s2te";
-String MM_dbConn_STRING="jdbc:mysql://localhost/db_gps";
-String MM_dbConn_STRING1="jdbc:mysql://localhost/db_avlalldata";
+String MM_dbConn_STRING="jdbc:mysql://172.16.8.17/db_gps";
+String MM_dbConn_STRING1="jdbc:mysql://172.16.8.17/db_avlalldata";
 
 Connection conn,conn1;
 Statement st, st1;
