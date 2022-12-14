@@ -45,7 +45,7 @@
                       
                       <tr>
             					<td width="100%">
-            					<form name="fleetviewlogin" action="login.jsp" method="post" onsubmit="return validate();">
+            					<form name="fleetviewlogin" action="mainpage.jsp" method="post" onsubmit="return validate();">
 						<table border="0" width="50%" align="center">
 						<tr><td colspan="2" bgcolor="#2696B8">&nbsp;
 						<%
